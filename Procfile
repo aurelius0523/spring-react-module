@@ -1,1 +1,1 @@
-web: mvn clean install
+web: java -jar $PATH_TO_JAR
